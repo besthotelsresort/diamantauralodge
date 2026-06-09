@@ -1,0 +1,2 @@
+# diamantauralodge
+Static site: diamantauralodge
